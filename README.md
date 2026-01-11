@@ -52,8 +52,5 @@ This project focuses on building an interactive **E-Commerce Sales Dashboard** u
 * Improves visibility into overall e-commerce performance
 
 
-## 👤 Author
 
-**Vaibhavi Deshmukh**
-Aspiring Data Analyst / Power BI Developer
 
