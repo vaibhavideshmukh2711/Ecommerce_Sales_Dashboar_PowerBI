@@ -48,13 +48,13 @@ The dashboard enables stakeholders to make data-driven business decisions by tra
 
 # 🖼 Dashboard Preview
 
-📁 Repository Contents
 
-Dashboard/ → Power BI .pbix file
+## Dataset Used
+- <a href="https://github.com/vaibhavideshmukh2711/Ecommerce_Sales_Dashboar_PowerBI/tree/main/Project_Dataset">Dataset</a>
 
-Screenshots/ → Dashboard images
+## Dashboard Image
 
-Dataset/ → Raw dataset (if shareable)
+![Screenshot (495)](https://github.com/vaibhavideshmukh2711/Ecommerce_Sales_Dashboar_PowerBI/blob/main/EcommerceSales_Dashboard.png)
 
 # 🚀 Business Value
 
