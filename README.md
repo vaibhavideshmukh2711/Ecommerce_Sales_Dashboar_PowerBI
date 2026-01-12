@@ -1,55 +1,95 @@
-# 📊 E-Commerce Sales Dashboard (Power BI)
+📊 Ecommerce Sales Dashboard | Power BI
+📌 Project Overview
 
-## 📌 Project Overview
+This project presents an interactive Ecommerce Sales Dashboard built using Power BI to analyze sales performance, profitability, customer segments, and regional trends.
+The dashboard enables stakeholders to make data-driven business decisions by tracking key KPIs and identifying growth opportunities.
 
-This project focuses on building an interactive **E-Commerce Sales Dashboard** using **Power BI** to analyze sales performance, customer behavior, and product trends. The dashboard helps stakeholders monitor key metrics and make data-driven business decisions.
+🎯 Objectives
 
-## 🎯 Objectives
+Monitor Year-to-Date (YTD) Sales, Profit, Quantity, and Profit Margin
 
-* Track overall sales, profit, and order trends
-* Identify top-performing products and categories
-* Analyze regional and customer-wise sales performance
-* Enable dynamic, real-time insights through interactive visuals
+Compare YoY performance across categories
 
-## 🛠️ Tools & Technologies
+Identify Top & Bottom performing products
 
-* **Power BI** – Dashboard creation & visualization
-* **Power Query** – Data cleaning and transformation
-* **DAX** – KPI calculations and measures
-* **Excel / CSV** – Data source
+Analyze regional sales distribution
 
-## 🔄 Data Preparation
+Understand shipping type contribution
 
-* Cleaned raw sales data by handling missing values and correcting data types
-* Removed duplicates and standardized fields
-* Created calculated columns and measures using DAX
+📈 Key KPIs
 
-## 📈 Key KPIs & Metrics
+YTD Sales: $11.53M
 
-* Total Sales
-* Total Profit
-* Quantity Sold
-* Average Order Value (AOV)
-* Category-wise & Region-wise Sales
-* Top Products & Customers
+YTD Profit: $1.34M
 
-## 📊 Dashboard Features
+YTD Quantity Sold: 107.2K
 
-* Interactive slicers (Date, Category, Region, Payment Mode)
-* Dynamic charts and tables for drill-down analysis
-* Clear visual storytelling for quick business insights
+YTD Profit Margin: 11.58%
 
-## 🔍 Key Insights
+🛠 Tools & Technologies
 
-* Identified high-revenue product categories and regions
-* Analyzed sales trends over time
-* Highlighted customer segments contributing most to revenue
+Power BI
 
-## 🚀 Business Impact
+DAX
 
-* Supports strategic decision-making through data-driven insights
-* Helps optimize product and sales strategies
-* Improves visibility into overall e-commerce performance
+Power Query
+
+Excel / CSV Dataset
+
+Data Modeling & Visualization
+
+📊 Dashboard Insights
+
+Office Supplies is the highest contributing category by sales
+
+West Region leads with ~32% of total sales
+
+Standard Class shipping contributes the highest sales share
+
+Profit increased despite a slight decline in sales quantity
+
+Identified top-performing and underperforming products for strategic action
+
+🧩 Features
+
+Dynamic segment filter (Consumer, Corporate, Home Office)
+
+KPI cards with YoY trend indicators
+
+Interactive charts & maps
+
+Drill-down capable visuals
+
+Clean and business-friendly design
+
+🖼 Dashboard Preview
+
+📁 Repository Contents
+
+Dashboard/ → Power BI .pbix file
+
+Screenshots/ → Dashboard images
+
+Dataset/ → Raw dataset (if shareable)
+
+🚀 Business Value
+
+This dashboard helps:
+
+Management track performance in real time
+
+Identify profitable regions and products
+
+Improve inventory and shipping decisions
+
+Support strategic planning using data
+
+👩‍💻 Author
+
+Vaibhavi Deshmukh
+Aspiring Data Analyst | Power BI | SQL | Python | Excel
+
+📌 Open to Data Analyst & Business Analyst roles
 
 
 
