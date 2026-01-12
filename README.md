@@ -6,25 +6,21 @@ The dashboard enables stakeholders to make data-driven business decisions by tra
 
 ## 🎯 Objectives
 
-Monitor Year-to-Date (YTD) Sales, Profit, Quantity, and Profit Margin
+- Monitor Year-to-Date (YTD) Sales, Profit, Quantity, and Profit Margin
+- Compare YoY performance across categories
+- Identify Top & Bottom performing products
+- Analyze regional sales distribution
+- Understand shipping type contribution
 
-Compare YoY performance across categories
+# 📈 Key KPIs
 
-Identify Top & Bottom performing products
+- YTD Sales: $11.53M
 
-Analyze regional sales distribution
+- YTD Profit: $1.34M
 
-Understand shipping type contribution
+- YTD Quantity Sold: 107.2K
 
-📈 Key KPIs
-
-YTD Sales: $11.53M
-
-YTD Profit: $1.34M
-
-YTD Quantity Sold: 107.2K
-
-YTD Profit Margin: 11.58%
+-YTD Profit Margin: 11.58%
 
 🛠 Tools & Technologies
 
