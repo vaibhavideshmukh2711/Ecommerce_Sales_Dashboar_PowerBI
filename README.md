@@ -1,10 +1,10 @@
-📊 Ecommerce Sales Dashboard | Power BI
-📌 Project Overview
+# 📊 Ecommerce Sales Dashboard | Power BI
 
+## 📌 Project Overview
 This project presents an interactive Ecommerce Sales Dashboard built using Power BI to analyze sales performance, profitability, customer segments, and regional trends.
 The dashboard enables stakeholders to make data-driven business decisions by tracking key KPIs and identifying growth opportunities.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Monitor Year-to-Date (YTD) Sales, Profit, Quantity, and Profit Margin
 
