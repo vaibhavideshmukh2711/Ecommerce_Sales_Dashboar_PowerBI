@@ -20,45 +20,33 @@ The dashboard enables stakeholders to make data-driven business decisions by tra
 
 - YTD Quantity Sold: 107.2K
 
--YTD Profit Margin: 11.58%
+- YTD Profit Margin: 11.58%
 
-🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 
-Power BI
+- Power BI
+- DAX
+- Power Query
+- Excel / CSV Dataset
+- Data Modeling & Visualization
 
-DAX
+# 📊 Dashboard Insights
 
-Power Query
+- Office Supplies is the highest contributing category by sales
+- West Region leads with ~32% of total sales
+- Standard Class shipping contributes the highest sales share
+- Profit increased despite a slight decline in sales quantity
+- Identified top-performing and underperforming products for strategic action
 
-Excel / CSV Dataset
+# 🧩 Features
 
-Data Modeling & Visualization
+- Dynamic segment filter (Consumer, Corporate, Home Office)
+- KPI cards with YoY trend indicators
+- Interactive charts & maps
+- Drill-down capable visuals
+- Clean and business-friendly design
 
-📊 Dashboard Insights
-
-Office Supplies is the highest contributing category by sales
-
-West Region leads with ~32% of total sales
-
-Standard Class shipping contributes the highest sales share
-
-Profit increased despite a slight decline in sales quantity
-
-Identified top-performing and underperforming products for strategic action
-
-🧩 Features
-
-Dynamic segment filter (Consumer, Corporate, Home Office)
-
-KPI cards with YoY trend indicators
-
-Interactive charts & maps
-
-Drill-down capable visuals
-
-Clean and business-friendly design
-
-🖼 Dashboard Preview
+# 🖼 Dashboard Preview
 
 📁 Repository Contents
 
@@ -68,24 +56,20 @@ Screenshots/ → Dashboard images
 
 Dataset/ → Raw dataset (if shareable)
 
-🚀 Business Value
+# 🚀 Business Value
 
-This dashboard helps:
+### This dashboard helps:
+- Management track performance in real time
+- Identify profitable regions and products
+- Improve inventory and shipping decisions
+- Support strategic planning using data
 
-Management track performance in real time
-
-Identify profitable regions and products
-
-Improve inventory and shipping decisions
-
-Support strategic planning using data
-
-👩‍💻 Author
+# 👩‍💻 Author
 
 Vaibhavi Deshmukh
-Aspiring Data Analyst | Power BI | SQL | Python | Excel
+- Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
-📌 Open to Data Analyst & Business Analyst roles
+## 📌 Open to Data Analyst & Business Analyst roles
 
 
 
