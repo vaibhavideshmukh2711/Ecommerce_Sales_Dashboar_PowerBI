@@ -15,11 +15,8 @@ The dashboard enables stakeholders to make data-driven business decisions by tra
 # 📈 Key KPIs
 
 - YTD Sales: $11.53M
-
 - YTD Profit: $1.34M
-
 - YTD Quantity Sold: 107.2K
-
 - YTD Profit Margin: 11.58%
 
 # 🛠 Tools & Technologies
