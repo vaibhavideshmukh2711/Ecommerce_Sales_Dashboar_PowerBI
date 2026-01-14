@@ -66,9 +66,6 @@ The project demonstrates the complete analytics workflow — from raw data extra
 
 ---
 
-## 📂 Project Structure
-
----
 
 ## 🔍 Data Analysis Workflow
 
@@ -171,7 +168,7 @@ This approach simulates a **real-world analytics setup**, where analysts pull li
 
 ## 📈 Dashboard Preview
 
-![E-commerce Sales Dashboard](images/EcommerceSales_Dashboard.png)
+![E-commerce Sales Dashboard](https://github.com/vaibhavideshmukh2711/Ecommerce_Sales_Dashboar_PowerBI/blob/main/EcommerceSales_Dashboard.png)
 
 ---
 
