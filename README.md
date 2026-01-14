@@ -68,24 +68,6 @@ The project demonstrates the complete analytics workflow — from raw data extra
 
 ## 📂 Project Structure
 
-```
-Ecommerce-Sales-Analysis/
-│
-├── sql/
-│   └── ecommerce_queries.sql        # SQL queries for analysis
-│
-├── python/
-│   └── Ecommerce_project.ipynb      # Data cleaning & EDA in Python
-│
-├── powerbi/
-│   └── Ecommerce_Sales_Dashboard.pbix
-│
-├── images/
-│   └── EcommerceSales_Dashboard.png # Dashboard preview
-│
-└── README.md
-```
-
 ---
 
 ## 🔍 Data Analysis Workflow
@@ -224,9 +206,7 @@ Data Analyst | SQL | Python | Power BI
 [LinkedIn](https://www.linkedin.com/in/vaibhavi-deshmukh-963138346)
 [GitHub](https://github.com/vaibhavideshmukh2711)
 
----
 
-⭐ If you found this project insightful, feel free to star the repository!
 
 
 
