@@ -191,7 +191,7 @@ This approach simulates a **real-world analytics setup**, where analysts pull li
 
 ## 🔗 Links
 
-* **Python Notebook:** [View Analysis](python/Ecommerce_project.ipynb)
+* **Python Notebook:** [View Analysis](https://github.com/vaibhavideshmukh2711/Ecommerce_Sales_Dashboar_PowerBI/blob/main/Ecommerce_project.ipynb)
 * **Power BI Dashboard:** Included in repository
 
 ---
